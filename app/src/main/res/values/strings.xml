@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UASAlviTMJ5</string>
+    <string name="CustomerName">Nama Pelanggan</string>
+    <string name="CustomerAge">Usia Pelanggan</string>
+    <string name="ActiveCustomer">Pelanggan Aktif</string>
+</resources>

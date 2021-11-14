@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.ac.pnj.uasalvitmj5">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/sop"
+        android:label="My Customers List"
+        android:roundIcon="@drawable/sop"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UASAlviTMJ5">
+        <activity android:name=".AboutMe"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
